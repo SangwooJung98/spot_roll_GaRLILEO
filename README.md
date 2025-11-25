@@ -17,7 +17,7 @@ ROS2 based **leg kinematic based ego-velocity estimator for Boston Dynamics SPOT
 }
 ```
 
-## GaRLILEO
+## GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry
 
 
 
